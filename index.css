@@ -257,7 +257,7 @@ nav {
 
 .pedidos .contenedor {
     display: grid;
-    grid-template-columns: repeat(3, 20.9%);
+    grid-template-columns: repeat(1);
     justify-content: center;
 }
 
@@ -477,7 +477,7 @@ nav {
 
     .pedidos .contenedor {
         display: grid;
-        grid-template-columns: repeat(3, 20.9%);
+        grid-template-columns: repeat(3, 23.9%);
         justify-content: center;
     }
 
