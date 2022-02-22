@@ -452,7 +452,7 @@ nav {
     /* galeria-container*/
 
     .sombraText {
-        text-shadow: 4px 4px 4px blueviolet, -4px -4px 6px blueviolet;
+        text-shadow: 4px 4px 4px rgb(189, 159, 218), -4px -4px 6px rgb(226, 59, 204);
         animation: zoom 2s alternate ease-in-out infinite;
         transition: all 0.5s;
         
